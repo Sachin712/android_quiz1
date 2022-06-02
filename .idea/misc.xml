@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/car_layout.xml" value="0.365625" />
+        <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/card_layout.xml" value="0.264" />
         <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
-        <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/fragment_second.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/fragment_second.xml" value="0.264" />
         <entry key="..\:/Users/sachd/AndroidStudioProjects/N01420704quiz1/app/src/main/res/layout/frame_textview.xml" value="0.358695652173913" />
       </map>
     </option>
